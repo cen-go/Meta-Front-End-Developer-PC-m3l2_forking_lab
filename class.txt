@@ -1,0 +1,14 @@
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+white
+Silver
+Fuchsia
+Purple
+Brown
+Red
+black
+
